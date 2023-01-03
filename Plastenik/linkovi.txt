@@ -1,0 +1,4 @@
+i2c vise komponenti komunikacija
+https://electronics.stackexchange.com/questions/25278/how-to-connect-multiple-i2c-interface-devices-into-a-single-pin-a4-sda-and-a5
+adapter l2c
+https://www.instructables.com/id/How-to-Connect-I2C-Lcd-Display-to-Arduino-Uno/
